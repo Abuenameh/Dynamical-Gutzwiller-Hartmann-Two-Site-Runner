@@ -77,7 +77,7 @@ void taupoints(int i, Input& in, queue<Point>& points, boost::progress_display& 
 #ifdef AMAZON
         string prog = "/home/ubuntu/dynamical_gutzwiller_hartmann_two_site";
 #elif defined(FSTSERVER)
-        string prog = "C:/Users/Abuenameh/Documents/NetBeansProjects/Dynamical Gutzwiller Hartmann Two Site/dist/Release/MinGW_TDM-Windows/dynamical_gutzwiller_hartmann_two_site";
+        string prog = "C:/Users/Abuenameh/Documents/NetBeansProjects/Dynamical Gutzwiller Hartmann Two Site/dist/Release/MinGW_TDM-Windows/dynamical_gutzwiller_hartmann_two_site.exe";
 #else
         string prog = "/Users/Abuenameh/NetBeansProjects/Dynamical Gutzwiller Hartmann Two Site/dist/Release/CLang-MacOSX/dynamical_gutzwiller_hartmann_two_site";
 #endif
